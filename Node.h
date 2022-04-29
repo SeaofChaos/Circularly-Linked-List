@@ -1,14 +1,3 @@
-//////////////////////////////////////////////////////////////////////////////
-//   Author:	Ryan Quinn
-//   Creation 	10/10/20
-//   Due Date:	10/16/20
-//   Course:	CSC237 010
-//   Professor Name: Dr. Spiegel
-//   Assignment: #2
-//   Filename:	Node.h
-//
-//   Purpose:	A circular linked list implementation.
-//////////////////////////////////////////////////////////////////////////////
 
 // File: Node.h
 // Singly-linked list node definition/implementation (also good for circular)
